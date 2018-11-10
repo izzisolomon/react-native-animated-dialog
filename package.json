@@ -1,5 +1,5 @@
 {
-  "name": "react-native-popup-dialog",
+  "name": "react-native-animated-dialog",
   "version": "1.0.0",
   "description": "A dialog with popup animation for your react-native app",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izzisolomon/react-native-popup-dialog.git"
+    "url": "git+https://github.com/izzisolomon/react-native-animated-dialog.git"
   },
   "keywords": [
     "react-native",
     "react-native-dialog",
-    "react-native-popup-dialog",
+    "react-native-animated-dialog",
     "dialog",
-    "popup",
+    "animated",
     "react-component",
     "ios",
     "android"
@@ -23,10 +23,10 @@
   "author": "Izzi Solomon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/izzisolomon/react-native-popup-dialog/issues"
+    "url": "https://github.com/izzisolomon/react-native-animated-dialog/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.20.0"
   },
-  "homepage": "https://github.com/izzisolomon/react-native-popup-dialog#readme"
+  "homepage": "https://github.com/izzisolomon/react-native-popup-animated#readme"
 }

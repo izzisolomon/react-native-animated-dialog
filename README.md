@@ -1,12 +1,12 @@
-# react-native-sliding-drawer
+# react-native-animated-dialog
 
 A dialog component for your react-native application.
 
-To Download, run: yarn add react-native-popup-dialog, or npm install -s react-native-popup-dialog.
+To Download, run: yarn add react-native-animated-dialog, or npm install -s react-native-animated-dialog.
 
 Sample Usage:
 
-    import Dialog from "react-native-popup-dialog";
+    import Dialog from "react-native-animated-dialog";
 
     openDialog = () {
       this.setState({ open: true});
