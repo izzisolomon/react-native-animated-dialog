@@ -27,6 +27,7 @@ Sample Usage:
           <Dialog
            open={this.state.open}
            layout={myLayout}
+           margin={60}                  //default is 40
            closeOnTapOutside={false}   //Default is true
            />
       )

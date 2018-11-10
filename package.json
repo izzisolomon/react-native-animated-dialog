@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dialog with popup animation for your react-native app",
   "main": "index.js",
   "scripts": {
