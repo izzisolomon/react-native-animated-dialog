@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-dialog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A dialog with popup animation for your react-native app",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,5 @@
   "peerDependencies": {
     "react-native": ">=0.20.0"
   },
-  "homepage": "https://github.com/izzisolomon/react-native-popup-animated#readme"
+  "homepage": "https://github.com/izzisolomon/react-native-animated-dialog#readme"
 }
